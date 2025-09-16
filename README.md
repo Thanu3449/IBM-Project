@@ -7,5 +7,7 @@ Screenshort of google collab:
 <img width="1913" height="1003" alt="Screenshot 2025-09-07 145624" src="https://github.com/user-attachments/assets/6aab2d87-1154-4475-a9be-4e17e923f076" />
 <img width="1919" height="1014" alt="Screenshot 2025-09-07 145909" src="https://github.com/user-attachments/assets/df70af62-928d-47eb-a12e-d3702f693f18" />
 Demo link - https://drive.google.com/file/d/1uyAtkPaHQ9xxhtbc2_gVbdlUUL-88Hwb/view?usp=drive_link
+
 collab link- https://colab.research.google.com/drive/12wgJCPqtdqFG5M-R6ZQ6ZHo_INRXS5zb#scrollTo=N2JIlTDrZtdV&line=11&uniqifier=1
+
 Project document- https://drive.google.com/file/d/1S0Ak1gOl_OdXP6-iOpNm0YzManEGj7gk/view?usp=drivesdk
